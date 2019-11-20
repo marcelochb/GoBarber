@@ -2,6 +2,26 @@
 
 ![alt text](https://github.com/marcelochb/GoBarber/blob/master/assets/gobarber.jpg)
 
+## Recursos utilizados para desenvolver:
+   ### Para o Back-End 
+   - Express;
+   - Sucrase;
+   - Yup;
+   - Cors;
+   - Redis (cache e fila);
+   - Postgres (Sequelize);
+   - Sentry (error log)
+   
+   ### Para o Front-End
+   - Axios;
+   - Redux;
+   - Redux-Saga;
+   - MaterialUI (icons);
+   - Yup;
+   - Styled-Component;
+   - Componentização;
+   - Reactotron;
+
 ## Instruções para testar a aplicação em modo de desenvolvimento
 
 ### 1 - Backend
