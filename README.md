@@ -1,5 +1,7 @@
 # GoBarber - App para agendamento de serviço (fazer barba)
 
+[!alt text](https://github.com/marcelochb/GoBarber/blob/master/assets/gobarber.jpg)
+
 ## Instruções para testar a aplicação em modo de desenvolvimento
 
 ### 1 - Backend
